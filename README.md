@@ -13,6 +13,7 @@ Material que será impartido por Cruz Eduardo Muñoz Cervantes para el FLISOL 20
 2.3. ¿Cómo funciona Tensorflow? (Tensores, gráficos, secciones etc).
 2.4. Modelo de regresión.
 
+
 ### Prerequsitos
 
 Tener una version de python 3.x
@@ -45,15 +46,6 @@ Ahora vamos a clonar el proyecto.
 git clone ""
 cd flisol2019
 pip3 install -r requeriments.txt
-```
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## Autores
